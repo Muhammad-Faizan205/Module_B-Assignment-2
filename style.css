@@ -1,0 +1,19 @@
+.Card_box {
+    margin-left: 5%;
+}
+
+.Card_box div {
+    width: 500px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.card-text {
+    width: 300px;
+}
+
+.Title {
+    font-family: sans-serif
+}
